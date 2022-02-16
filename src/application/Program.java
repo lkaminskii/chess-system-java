@@ -10,8 +10,8 @@ public class Program {
 		
 		Locale.setDefault(Locale.US);
 		
-		Position pos = new Position(3, 5);
-		System.out.println(pos);
+		
+
 
 	}
 
